@@ -1,3 +1,13 @@
 a {
 	text-decoration: none;
 }
+
+* {
+	font-family: 'Poiret One', cursive;
+	font-weight: 700;
+}
+
+h1 {
+	font-family: 'Ubuntu Mono', monospace;
+}
+
